@@ -26,6 +26,9 @@ $ npm run ts-watch
 
 ```
 
+![image](https://user-images.githubusercontent.com/3756229/205877371-b9466093-7594-4278-b310-2d419a8ffd40.png) 
+
+
 ## Deploy gh-page
 
 ```
