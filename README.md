@@ -32,7 +32,7 @@ $ npm run ts-watch
 ## Deploy gh-page
 
 ```
-npm run deploy
+$ npm run deploy
 
 ```
 
