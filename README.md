@@ -1,26 +1,28 @@
 
 
-# 04-ZKAPP-BROWSER-UI
+# 04-ZkApp-Brower-UI
 
 ```
-zk project 04-zkapp-browser-ui --ui next
+$ zk project 04-zkapp-browser-ui --ui next
 
 ```
 
 ## Build Contract
 
 ```
-cd contracts/
-npm run build
+$ cd contracts/
+$ npm run build
 
 ```
 
 ## Build UI
 
 ```
-npm run dev
+First Terminal
+$ npm run dev
 
-npm run ts-watch
+Second Terminal
+$ npm run ts-watch
 
 ```
 
